@@ -1,16 +1,22 @@
-### Hi there 👋
+<!-- STARTED:: Profile Views Area -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmetceviik&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetceviik" /> </p>
+<!-- END:: Profile Views Area -->
 
-<!--
-**ahmetceviik/ahmetceviik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- STARTED:: Discord Area -->
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/742048552364146708)](https://discord.com/users/742048552364146708)
+<!-- END:: Discord Area -->
 
-Here are some ideas to get you started:
+<!-- STARTED:: About Me Area -->
+My name is Ahmet, I'm a 19 years old student living in Istanbul, Turkey.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- My website: [ahmetcevikofficial.com](https://ahmetcevikofficial.com)
+- My E-Mail: [info@ahmetcevikofficial.com](mailto:info@ahmetcevikofficial.com)
+<!-- END:: About Me Area -->
+
+<!-- STARTED:: Github Status Area -->
+<a href="https://github.com/ahmetceviik" alt="ahmetceviik github status">
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmetceviik&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=218ee6&text_color=FFFFFF&icon_color=218ee6">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetceviik&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=218ee6">
+</a>
+<!-- END:: Github Status Area -->
+
