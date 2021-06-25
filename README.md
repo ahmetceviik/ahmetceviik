@@ -15,8 +15,8 @@ My name is Ahmet, I'm a 19 years old student living in Istanbul, Turkey.
 
 <!-- STARTED:: Github Status Area -->
 <a href="https://github.com/ahmetceviik" alt="ahmetceviik github status">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ahmetceviik&show_icons=true&title_color=218ee6&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=0&locale=en" alt="ahmetceviik" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetceviik&show_icons=true&title_color=218ee6&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=0&locale=en&layout=compact" alt="ahmetceviik" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmetceviik&show_icons=true&title_color=218ee6&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=0&locale=en" alt="ahmetceviik" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetceviik&show_icons=true&title_color=218ee6&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=0&locale=en&layout=compact" alt="ahmetceviik" />
 </a>
 <!-- END:: Github Status Area -->
 
