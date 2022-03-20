@@ -7,7 +7,7 @@
 <!-- END:: Discord Area -->
 
 <!-- STARTED:: About Me Area -->
-My name is Ahmet, I'm a 19 years old student living in Istanbul, Turkey.
+My name is Ahmet, I'm a 20 years old student living in Istanbul, Turkey.
 
 - My website: [ahmetcevikofficial.com](https://ahmetcevikofficial.com)
 - My E-Mail: [info@ahmetcevikofficial.com](mailto:info@ahmetcevikofficial.com)
